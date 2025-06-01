@@ -1,0 +1,11 @@
+com/example/sensor_readings/docs/OpenAPIConfiguration.class
+com/example/sensor_readings/service/SensorReadingService.class
+com/example/sensor_readings/controller/SensorMultipleReadingsController.class
+com/example/sensor_readings/repository/SensorReadingRepository.class
+com/example/sensor_readings/SensorReadingsApplication.class
+com/example/sensor_readings/controller/SensorReadingController.class
+com/example/sensor_readings/model/SensorReading.class
+com/example/sensor_readings/exception/SensorReadingNotFoundException.class
+com/example/sensor_readings/model/SensorMultipleReadings.class
+com/example/sensor_readings/model/Reading.class
+com/example/sensor_readings/service/SensorMultipleReadingsService.class

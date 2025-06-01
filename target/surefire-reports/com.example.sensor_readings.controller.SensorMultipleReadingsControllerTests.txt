@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.sensor_readings.controller.SensorMultipleReadingsControllerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.127 s -- in com.example.sensor_readings.controller.SensorMultipleReadingsControllerTests

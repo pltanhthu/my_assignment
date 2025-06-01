@@ -1,0 +1,11 @@
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/SensorReadingsApplication.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/controller/SensorMultipleReadingsController.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/controller/SensorReadingController.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/docs/OpenAPIConfiguration.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/exception/SensorReadingNotFoundException.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/model/Reading.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/model/SensorMultipleReadings.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/model/SensorReading.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/repository/SensorReadingRepository.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/service/SensorMultipleReadingsService.java
+/Users/thulepham/Data/05_Projects/sensor-readings/src/main/java/com/example/sensor_readings/service/SensorReadingService.java

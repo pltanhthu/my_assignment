@@ -1,0 +1,7 @@
+com/example/sensor_readings/controller/SensorReadingControllerIntegrationTest.class
+com/example/sensor_readings/SensorReadingsApplicationTests.class
+com/example/sensor_readings/service/SensorReadingServiceTests.class
+com/example/sensor_readings/controller/SensorMultipleReadingsControllerTests.class
+com/example/sensor_readings/controller/SensorMultipleReadingsControllerIntegrationTest.class
+com/example/sensor_readings/service/SensorMultipleReadingsServiceTests.class
+com/example/sensor_readings/controller/SensorReadingControllerTests.class
